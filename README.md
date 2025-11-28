@@ -13,6 +13,8 @@ The Group Wallet smart contract is deployed on the Flare Coston2 test network at
 
 - **Address:** `0xd12658C6b5fccC9731Ef205661FC5898f1D2D58e`  
 - **Explorer:** https://coston2-explorer.flare.network/address/0xd12658C6b5fccC9731Ef205661FC5898f1D2D58e
+- <img width="1920" height="1200" alt="Screenshot 2025-11-28 134744" src="https://github.com/user-attachments/assets/8bdc61a3-e9a5-458b-a54e-37956176dfd9" />
+
 
 ## 3. Description
 
